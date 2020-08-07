@@ -1,4 +1,4 @@
-# Time-Series-Analysis-of-Avacado-Price-Using-fbprophet-library
+# Time-Series-Analysis-of-Avacado-Price-Using-fbprophet-Library
 
 # Objective
 
